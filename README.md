@@ -29,3 +29,8 @@ ou caso não houvesse então deveria utilizar os olhos.
 
 Como meu objetivo era fornecer um retrato do monstro, optei por não permitir informações NULL ou VAZIAS, forcei o usuário a escolher um característica já catalogada.
 Dessa forma consegue fazer diversas combinações.
+
+# Como rodar o projeto
+1. Garanta que possui instalado um compilador C (GCC ou CL) ou uma IDE com compilador integrado (Code Blocks, DEV++, Visual Studio)
+2. Baixe o código.
+3. Compile no seu ambiente e execute o .exe que será gerado ou use o DEBUG da ferramenta que possui compilador embutido.
